@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="STRY666" language="en" table="x_1783436_testan_0_stry666">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>STRY666</label>
+            <language>en</language>
+            <name>x_1783436_testan_0_stry666</name>
+            <plural>STRY666s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-02-23 20:07:54</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>STRY666</sys_name>
+            <sys_package display_value="testando git" source="x_1783436_testan_0">2279893cc353ba108a24b90ed40131dd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testando git">2279893cc353ba108a24b90ed40131dd</sys_scope>
+            <sys_update_name>sys_documentation_x_1783436_testan_0_stry666__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-02-23 20:07:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
